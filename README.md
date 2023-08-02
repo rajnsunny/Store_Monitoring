@@ -112,7 +112,3 @@ rajnsunny9@gmail.com
 ## Acknowledgments
 
 Special thanks to Loop Kitchen. for providing the data and an Amesome problem statement for this project.
-
----
-
-Replace the placeholders with appropriate information, such as the actual URL of the repository, email addresses, contributors' names, etc. The README file provides essential information about the application, its features, and how to set it up and use it. It helps users understand the purpose of the application and how to interact with it.
